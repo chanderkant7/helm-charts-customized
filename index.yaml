@@ -18,11 +18,11 @@ entries:
           url: https://www.jenkins.io/
     apiVersion: v2
     appVersion: 2.277.4
-    created: "2021-05-29T18:37:54.6890735+05:30"
+    created: "2021-05-29T18:48:29.8963186+05:30"
     description: Jenkins - Build great things at any scale! The leading open source
       automation server, Jenkins provides hundreds of plugins to support building,
       deploying and automating any project.
-    digest: 7f24dbf0f7c3ed52232e8b452774cc3e89e0d57029c25de575a1b1c42708dfec
+    digest: f77d01a06ca0487801498a5d241d04d276f3e25176759b7d9c88f7829d5648a4
     home: https://jenkins.io/
     icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
     maintainers:
@@ -45,4 +45,4 @@ entries:
     urls:
     - https://chanderkant7.github.io/helm-charts-customized/jenkins-3.3.18.tgz
     version: 3.3.18
-generated: "2021-05-29T18:37:54.6782133+05:30"
+generated: "2021-05-29T18:48:29.8860756+05:30"
